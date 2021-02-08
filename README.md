@@ -2,7 +2,9 @@
 
 This is a quick test application to verify that dockerization of djagno app works on both Windows and Linux.
 
-First, install docker onto your computer. <br/>
+First, install docker onto your computer. <br/> 
+
+You may also have to enable virtualization in your BIOS. <br />
 
 https://docs.docker.com/get-docker/
 
