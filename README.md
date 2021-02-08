@@ -4,9 +4,9 @@ This is a quick test application to verify that dockerization of djagno app work
 
 First, install docker onto your computer. <br/> 
 
-You may also have to enable virtualization in your BIOS. <br />
-
 https://docs.docker.com/get-docker/
+
+You may also have to enable virtualization in your BIOS. <br />
 
 Then, issue the following commands in your terminal:
 
