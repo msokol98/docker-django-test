@@ -15,4 +15,6 @@ docker-compose build
 docker-compose up
  ``` 
  
-Visit localhost:8000/hello in any web browser. It should return "Hello World".
+Visit  ``` 
+localhost:8000/hello ``` 
+ in any web browser. It should return "Hello World".
