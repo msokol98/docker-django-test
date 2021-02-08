@@ -2,7 +2,11 @@
 
 This is a quick test application to verify that dockerization of djagno app works on both Windows and Linux.
 
-Terminal commands:
+First, install docker onto your computer. <br/>
+
+https://docs.docker.com/get-docker/
+
+Then, issue the following commands in your terminal:
 
  ``` 
 git clone https://github.com/msokol98/docker-django-test.git
