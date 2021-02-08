@@ -5,10 +5,10 @@ This is a quick test application to verify that dockerization of djagno app work
 Terminal commands:
 
  ``` 
-git clone https://github.com/msokol98/docker-django-test.git <br />
-cd docker-django-test <br />
-docker-compose build <br />
-docker-compose up <br />
+git clone https://github.com/msokol98/docker-django-test.git
+cd docker-django-test
+docker-compose build
+docker-compose up
  ``` 
  
 Visit localhost:8000/hello in any web browser. It should return "Hello World".
